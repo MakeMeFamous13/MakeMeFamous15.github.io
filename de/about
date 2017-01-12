@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="RGpTeFk0bW18PyFIPEwsMhcAayd0ZxgeBx4iPXRBCC8hACoAPnIALg==">
+    <title></title>
+    <link href="https://onetwoslim.com/about" rel="alternate" hreflang="en">
+<link href="https://onetwoslim.com/ru/about" rel="alternate" hreflang="ru">
+<link href="https://onetwoslim.com/de/about" rel="alternate" hreflang="de">
+<link href="https://onetwoslim.com/es/about" rel="alternate" hreflang="es">
+<link href="https://onetwoslim.com/fr/about" rel="alternate" hreflang="fr">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/6aceee70/animate.css?v=1458900090" rel="stylesheet">
+<link href="/assets/96e96b4d/fonts/fonts.css?v=1471444393" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/96e96b4d/css/index.css?v=1478007448" rel="stylesheet">
+<link href="/assets/96e96b4d/css/snackbar.custom.css?v=1460536355" rel="stylesheet">
+<link href="/assets/dc5f05ce/snackbar.min.css?v=1460536355" rel="stylesheet">
+<script type="text/javascript">var currentLanguage = "de";</script>        
+<!­­ Facebook Pixel Code ­­>
+
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', 281860875486193);
+    fbq('track', "PageView");
+    </script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=281860875486193&ev=PageView&noscript=1" />
+</noscript>
+
+<!­­ End Facebook Pixel Code ­­></head>
+<body>
+<div class="wrapper">
+    <header>
+        <div class="header__wrapper-first-line">
+            <div class="container desktop">
+                <div class="header__wrapper__-left">
+                    <div class="header__logo"><a href="https://onetwoslim.com/de">
+                            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+                    <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+                  </svg></a></div>
+                    <div class="white-to-us"><span>Zeit zu Leben ein neues Leben!</span></div>
+                </div>
+                <div class="header__wrapper__-right">
+                    <div class="header__social-icon">
+                        <ul>
+                            <li><a href="https://www.facebook.com/onetwobrand"><i class="fa fa-facebook fa-undefined undefined"></i></a></li>
+                            <li><a href="https://twitter.com/onetwobrand"><i class="fa fa-twitter fa-undefined undefined"></i></a></li>
+                            <li><a href="https://plus.google.com/104160462279701557428/posts?hl=en"><i class="fa fa-google-plus fa-undefined undefined"></i></a></li>
+                            <li><a href="https://www.instagram.com/one2brand"><i class="fa fa-instagram fa-undefined undefined"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="header__lang">
+    <ul>
+        <li class="current"><a href="#">de</a></li>
+        <ul class="langs__list">
+                            <li><a href="https://onetwoslim.com/about" data-value="en">en</a></li>
+                            <li><a href="https://onetwoslim.com/ru/about" data-value="ru">ru</a></li>
+                            <li><a href="https://onetwoslim.com/es/about" data-value="es">es</a></li>
+                            <li><a href="https://onetwoslim.com/fr/about" data-value="fr">fr</a></li>
+                    </ul>
+    </ul>
+</div>                    <div class="header__currency">
+                        <ul>
+                            <li><a href="#">$ usd</a></li>
+                        </ul>
+                    </div>
+                    <div class="header__account">
+                        <span>
+                            <i class="fa fa-user fa-undefined undefined"></i>
+                                                            <a class="login_link" href="https://onetwoslim.com/de/account/login">Anmelden</a>                                                    </span>
+                    </div>
+                </div>
+            </div>
+            <div class="container tablet-and-less">
+                <div class="header__wrapper__-left">
+                    <div class="header__logo"><a href="https://onetwoslim.com/de">
+                            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+                    <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+                  </svg></a></div>
+                </div>
+                <div class="header__wrapper__-right">
+                    <div class="header__social-icon">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-user fa-lg undefined"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__wrapper-second-line">
+            <div class="container">
+                <div class="header__nav">
+                    <nav><a href="#" class="menu-toggle"><i class="fa fa-align-justify fa-2x undefined"></i></a>
+                        <ul>
+                            <li class="tablet-and-less"><a href="#" class="menu-toggle"><i class="fa fa-remove fa-lg undefined"></i></a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/de">Home</a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/de/about">Über OneTwoSlim</a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/de/service">Service</a></li>
+<!--                            <li class="header_menu_item">--><?//= Html::a(Yii::t('app', 'Contact'),  Url::toRoute(['site/contact']))?><!--</li>-->
+                            <li class="tablet-and-less">
+                                <div class="header__lang">
+    <ul>
+        <li class="current"><a href="#">de</a></li>
+        <ul class="langs__list">
+                            <li><a href="https://onetwoslim.com/about" data-value="en">en</a></li>
+                            <li><a href="https://onetwoslim.com/ru/about" data-value="ru">ru</a></li>
+                            <li><a href="https://onetwoslim.com/es/about" data-value="es">es</a></li>
+                            <li><a href="https://onetwoslim.com/fr/about" data-value="fr">fr</a></li>
+                    </ul>
+    </ul>
+</div>                                <div class="header__currency">
+                                    <ul>
+                                        <li><a href="#">$ usd</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="tablet-and-less">
+                                <div class="header__social-icon">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/onetwobrand"><i class="fa fa-facebook fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://twitter.com/onetwobrand"><i class="fa fa-twitter fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://plus.google.com/104160462279701557428/posts?hl=en"><i class="fa fa-google-plus fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://www.instagram.com/one2brand"><i class="fa fa-instagram fa-undefined undefined"></i></a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="tablet-and-less">
+                                <div class="white-to-us"><span>Zeit zu Leben ein neues Leben!</span></div>
+                            </li>
+                        </ul>
+                    </nav>
+<!--                    <div class="header__nav-search desktop"><a href="#"><i class="fa fa-search fa-undefined undefined"></i></a></div>-->
+                    <!--div.header__nav-order.desktop-->
+                    <!--    a(href="#")-->
+                    <!--        +icon('shopping-bag', '3x')-->
+                    <!--        span 3-->
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="main" class="clearfix main-paddings">
+        <section class="banner banner__about animated fadeIn">
+    <div class="container">
+        <div data-wow-delay=".2s" class="banner__text wow zoomInLeft"><span class="banner__text-sub-title">Das Team<span> der besten</span></span>
+            <h1 class="banner__text-title">Wissenschaftler</h1>
+            <p>
+                Unsere Wissenschaftler arbeiten ungezählte Stunden, um die einzigartige Formel von OneTwoSlim zu finden. Nach zahlreichen Forschungen, nach den Untersuchungen von Tausenden Stoffen unter Mikroskop haben Sie die am besten wirkende und aktive Stoffe gewählt und in einer Kapsel diese Stoffe vereinigt. Die aktiven Stoffe dieser Ingredienzien zusammen helfen Ihnen für das Erreichen Ihres Zieles: das Gewicht zu reduzieren, gesund und schön zu sein. Alle Stoffe kommen aus ökologisch reinen Gegenden auf unserer Erde, wo es noch keine technogenen Verunreinigungen gibt. Viele Völker in ferner Vergangenheit benutzten sie als Heilmittel. Und jetzt haben Sie eine Möglichkeit, diese Stoffe für Ihre Schönheit und Gesundheit zu benutzen.
+            </p>
+        </div>
+    </div>
+</section>
+<section class="ingredients">
+    <div class="container">
+        <h1 class="title zoomIn wow">Unsere<span> Ingredienzien</span></h1>        <span class="beautiful-border"></span>
+        <ul>
+            <li data-wow-duration="2.5s" class="fadeInLeftBig wow"><img src="/img/ingredients-1.png"/>
+                <div class="ingredients__about">
+                    <h3>Grüner Tee</h3>
+                    <p>Grüner Tee ist eine sehr verbreitete Pflanze, welche viele von uns noch unterschätzen. Grüner Tee besitzt wundervolle Eigenschaften. Natürlichen Kräfte vom grünen Tee ermöglichen die Beschleunigung des Stoffwechsels, tragen zur Gewichtsabnahme bei sowie helfen, Appetit zu kontrollieren. Von alters her gilt grüner Tee als eine Pflanze der Munterkeit und der guten Stimmung. Die im Extrakt des grünen Tees enthaltenen Stoffe tragen nicht nur zur Gewichtssabnahme bei, sie sind auch gute Antioxydanten, stärken die Wände der Blutgefäße und tonisieren den Menschen für den ganzen Tag.</p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInRightBig wow"><img
+                    src="/img/ingredients-2.png"/>
+                <div class="ingredients__about">
+                    <h3>Garzinia Kambodyia</h3>
+                    <p>
+                        Garzinia Kambodyia - Extrakt aus Garzinia enthält die nach ihren Eigenschaften einzigartige Hydroxizitronensäure, die sehr selten in anderen Pflanzen vorkommt. Sie hemmt die Bildung des Fettes unter dem Haut aus Zucker, ermöglicht die Appetitverminderung, reduziert den Wunsch, Süßigkeiten zu essen, besonders wenn ausreichende Kalorien schon eingenommen sind. Extrakt von Garzinia hat noch eine Eigenschaft, Wechselprozesse im Organismus zu stimulieren und zu beschleunigen.
+                    </p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInLeftBig wow"><img
+                    src="/img/ingredients-3.png"/>
+                <div class="ingredients__about">
+                    <h3>Karalluma Fimbriata</h3>
+                    <p>
+                        Karalluma Fimbriata – das ist ein essbarer Kaktus mit saftigen Blättern, er wächst unter zärtlichen Sonnenstrahlen in Indien. Die indischen Völker benutzten Karalluma von alters her zur Verminderung des Hungersgefühles und zur Erhöhung der Ausdauer. Unsere wissenschaftlichen Untersuchungen zeigten, dass Karalluma nicht nur Appetit vermindert. Sie wirkt auf die Verminderung der Bildung der Fettzelle ein. Extrakt von Karalluma regelt nicht nur Appetit, sondern vergrössert die Munterkeit, hilft, den Blutdruck zu normalisieren, stärkt das Immunsystem und trägt zur Vorbeugung der Herzkrankheiten bei.
+                    </p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInRightBig wow"><img
+                    src="/img/ingredients-4.png"/>
+                <div class="ingredients__about">
+                    <h3>Guarana</h3>
+                    <p>Guarana ist eine Pflanze, die aus dem Südamerika kommt, aus der Amazonas-Gegend. Diese Pflanze besitzt ein ungewöhnlich aktiver Stoff, der nicht nur Ihre Gewichtsabnahme beschleunigt sondern viele auch diesen Prozess ohne Ermüdungs- und Erregungsgefühl machen kann. Nicht nur unsere Wissenschaftler, sondern viele Diätologen der Welt meinen, dass Guarana Wechselprozesse im Organismus stimuliert sowie zur Beschleunigung der „Fettverbrennung“ beiträgt.</p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInLeftBig wow"><img
+                    src="/img/ingredients-5.png"/>
+                <div class="ingredients__about">
+                    <h3>Coenzim Q10</h3>
+                    <p>
+                        Coenzim Q10 enthält Ubichinon. Das ist ein Koferment, das vitaminähnlich auf den Organismus einwirkt. Ubichinon wirkt positiv auf die Arbeit vom Immunsystem ein, verlangsamt Älterungsprozesse in Zellen. Unsere Wissenschaftler meinen, dass Koenzim Q10 einer der besten Antioxydanten ist. Er schützt Fettsäure gegen Oxydierung mit freien Radikalen und stabilisiert die Zellmembranen. Damit sichert er die Wechselprozesse, die lebenswichtig für Zellen sind. 
+Aber die wichtigste Funktion von Koenzim Q10 in unserem Organismus ist die Energieversorgung von allen Zellen des Körpers. Gerade deshalb haben wir diesen Stoff in unsere Zusammensetzung eingeschossen.
+                    </p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInRightBig wow"><img
+                    src="/img/ingredients-6.png"/>
+                <div class="ingredients__about">
+                    <h3>Grüner Kaffee</h3>
+                    <p>Grüner Kaffee hat wunderschöne Eigenschaften. Sein wichtigster Bestandteil ist Chlorogen- oder Koffeil-Chinensäure – Fenolverbindung, die effektiv auf den Metabolismus einwirkt: Kohlenhydrate hören einfach auf, sich ins Fett umzuwandeln. Es ist interessant, dass man Chlorogensäure nur in grünem Kaffee finden kann, weil sie unter hohen Temperaturen, die bei Kaffeerösten notwendig sind, aus Kaffeekörnern verschwindet. Gerade dank dieser Säure und wegen Koffein startet der Prozess der Gewichtsabnahme.</p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInLeftBig wow"><img
+                    src="/img/ingredients-7.png"/>
+                <div class="ingredients__about">
+                    <h3>Trans resveratrol.</h3>
+                    <p>Trans resveratrol. Dieser Stoff gehört zur Gruppe der Polyphenole, welche im Organismus die Rolle von Antioxydanten spielen. Sie hemmen die Entwicklung des so genannten oxydativen Stresses. Während dieses Stresses entstehen freie Radikale, welche die Zellen der Membranen zerstören. Antioxydanten haben eine einzigartige Fähigkeit: sie vernichten die obengenannten Radikale. Das trägt zur Verjüngung des menschlichen Körpers bei, stärkt die Gesundheit und verlängert die Jugend. Resveratrol vermindert Entzündungsprozesse. Dieser Stoff trägt auch zur Reduzierung der Cholesterinmenge im Blut bei.</p>
+                </div>
+            </li>
+            <li data-wow-delay=".1s" data-wow-duration="2.5s" class="fadeInRightBig wow"><img
+                    src="/img/ingredients-8.png"/>
+                <div class="ingredients__about">
+                    <h3>Himbeeren Keton</h3>
+                    <p>Himbeeren Keton hat eine Fähigkeit, Metabolismus zu beschleunigen und ermöglicht die Utilisierung der überflüssigen Kalorien und der schon angesammelten Fettansätze im Organismus. Der Prozess der Fettverbrennung berührt Muskeln nicht. Er gibt den Muskeln schöne Formen, weil im Prozess der Utilisierung nicht nur das Fett auf Bauch und auf Oberschenkeln (auf Lenden) gespaltet wird, sondern auch das Fett, das von dem Organismus zwischen Muskelgeweben und auf inneren Organen angesammelt ist. Vergrössert wird die Erarbeitung von wichtigsten fettverbrennenden Hormonen und zwar von Epinephrin und Norepinephrin. Vorgebeugt wird die Zerstörung von fettverbrennenden Hormonen, was die ständige Tätigkeit von diesen Hormonen im Organismus ermöglicht.
+Vorgebeugt wird das Aufhören der Arbeit der Alpha-Rezeptoren der Fettzellen, was auch ihre ständige Tätigkeit stimuliert. Gerade das Aufhören der Arbeit der Alpha-Rezeptoren der Fettzellen ist mit der Fettansammlung im Organismus verbunden. Das Fett wird dabei angesammelt und wird zur Erzeugung der Energie im Organismus nicht verwendet.</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+<section data-wow-duration="2.5s" class="recommend fadeIn wow">
+    <div class="container"><img src="/img/Our-Team-Left.png"/>
+        <div class="recommend__text">
+            <span class="recommend__smaller-text">unser professionelles</span><h3>team<span>empfiehlt</span></h3>        </div>
+        <img src="/img/Our-Team-Doc.png"/>
+    </div>
+    <span class="oval_line transform-90-deg desktop"></span>
+</section>
+<section class="union">
+    <div class="container">
+        <h1 class="title zoomIn wow">  Hergestellt in der Europäischen Union<span> eu</span></h1><span class="beautiful-border"></span>
+        <p data-wow-delay=".2s" data-wow-duration="1.5s" class="zoomIn wow">
+            Nach der schweren und sorgfältigen Arbeit unserer Wissenschaftler haben wir beschlossen, noch mehr die Qualität und die Zuverlässigkeit von OneTwoSlim zu verbessern. Wir sammeln unsere Ingredienzien in verschiedenen fernen Punkten der Erde und wir sollen alle nützlichen Stoffe darin erhalten. Gerade deshalb erzeugen wir unsere Produktion in der Europäischen Union, entsprechend allen Normen und Standards der Qualität. Wir verwenden die modernste Ausrüstung, um die besten Resultate zu haben, und verwirklichen eine strenge Kontrolle auf allen Produktionsstufen: von der Analyse der mikrobiologischen Eigenschaften der Stoffe, um ihre Zuverlässigkeit und Qualität zu bestimmen, bis zur Verpackung, damit Sie immer sagen können: „Danke für OneTwoSlim für die Hilfe beim Erreichen meines Ziels - gesund und schön zu sein!»
+        </p>
+        <ul>
+            <li data-wow-delay=".3s" data-wow-duration="1.5s" class="zoomIn wow"><span
+                    class="union__count">1389</span><span class="union__name">Stunden damit verbracht, auf die Entwicklung</span></li>
+            <li data-wow-delay=".5s" data-wow-duration="1.5s" class="zoomIn wow"><span
+                    class="union__count">38</span><span class="union__name">unser team</span></li>
+            <li data-wow-delay=".7s" data-wow-duration="1.5s" class="zoomIn wow"><span
+                    class="union__count">8</span><span class="union__name">Wirkstoffe</span></li>
+        </ul>
+    </div>
+</section>
+<section class="overlay">
+    <div class="container"><span class="oval_line transform-90-deg"></span><i
+            class="fa fa-star-o fa-2x undefined"></i><span class="oval_line"></span>
+    </div>
+</section>    </div>
+    <div class="fixed-buttons">
+<!--        <div class="subscribe__wrap">-->
+<!--            <a href="#" class="fixed-button__subscribe"><i class="fa fa-envelope fa-lg"></i>Subscribe</a>-->
+<!--        </div>-->
+        <div class="buy-now__wrap">
+            <a id="buy-now-fixed" href="https://onetwoslim.com/de/billing/create" class="fixed-button__buy-now"><i class="fa fa-shopping-cart fa-2x"></i>Buy now</a>
+        </div>
+    </div>
+    <footer class="">
+    <div class="container">
+        <div class="footer__col">
+            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+            <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+          </svg>
+        </div>
+        <div class="footer__col">
+            <h3>OneTwoSlim Menü</h3>
+            <ul>
+                <li><a href="https://onetwoslim.com/de"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Home</a></li>
+                <li><a href="https://onetwoslim.com/de/about"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Über OneTwoSlim</a></li>
+                <li><a href="https://onetwoslim.com/de/service"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Service</a></li>
+            </ul>
+        </div>
+        <div class="footer__col">
+            <h3>Für Kunden</h3>
+            <ul>
+                <li><a href="https://onetwoslim.com/de/account"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Mein Konto</a></li>
+                <li><a href="https://onetwoslim.com/de/terms-of-use"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Terms&Conditions</a></li>
+                <li><a href="https://onetwoslim.com/de/site/privacy-policy"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Datenschutzerklärung</a></li>
+            </ul>
+        </div>
+        <div class="footer__col">
+            <h3>Kontaktieren Sie uns</h3>
+            <ul>
+                <li><a href="javascript:void(0);"><i class="fa fa-map-marker fa-undefined undefined"></i><span>OneTwoBrand LLC</span></a></li>
+                <li><a href="javascript:void(0);"><span>5045 Old Scandia Ln, Calabasas, CA 91302, USA</span></a></li>
+                <li><a href="javascript:void(0);"><i class="fa fa-mobile fa-undefined undefined"></i>Toll-Free + 1 (888) 8423674</a></li>
+                <li><a href="javascript:void(0);"><i class="fa fa-mobile fa-undefined undefined"></i>Int'l + 1 (786) 3503070</a></li>
+<!--                <li><a href="mailto:info@onetwoslim.com"><i class="fa fa-envelope fa-undefined undefined"></i>info@onetwoslim.com</a></li>-->
+                <li>
+                    <a href="https://www.facebook.com/onetwobrand" class="social-icon facebook"><span><i class="fa fa-facebook fa-undefined undefined"></i></span></a>
+                    <a href="https://twitter.com/onetwobrand" class="social-icon twitter"><span><i class="fa fa-twitter fa-undefined undefined"></i></span></a>
+                    <a href="https://plus.google.com/104160462279701557428/posts?hl=en" class="social-icon google-plus"><span><i class="fa fa-google-plus fa-undefined undefined"></i></span></a>
+                    <a href="https://www.instagram.com/one2brand" class="social-icon instagram"><span><i class="fa fa-instagram fa-undefined undefined"></i></span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="sub-footer">
+        <div class="container">
+            <div class="sub-footer__left desktop">
+                <p><span>&#169; OneTwoSlim</span><span>&nbsp;- Alle Rechte vorbehalten. 2016</span></p>
+            </div>
+            <div class="sub-footer__right">
+                <ul class="payment-system">
+                    <li><a href="#" class="paypal"></a></li>
+                    <li><a href="#" class="visa"></a></li>
+                    <li><a href="#" class="master-card"></a></li>
+                    <li><a href="#" class="discover"></a></li>
+                    <li><a href="#" class="american-express"></a></li>
+                </ul>
+            </div>
+            <div class="sub-footer__left tablet-and-less">
+                <p><span>&#169; OneTwoSlim</span><span>&nbsp;- Alle Rechte vorbehalten. 2016</span></p>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/assets/4aa34ecc/yii.js?v=1468244202"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="/assets/f6b35bea/wow.min.js?v=1458900090"></script>
+<script src="/assets/fee0827/jquery.slides.min.js?v=1458900090"></script>
+<script src="/assets/10efd4e2/jquery.cookie.js?v=1398629235"></script>
+<script src="/assets/96e96b4d/js/messages.js?v=1471965341"></script>
+<script src="/assets/96e96b4d/js/translator.js?v=1468824781"></script>
+<script src="/assets/96e96b4d/js/app.js?v=1473864714"></script>
+<script src="/assets/dc5f05ce/snackbar.min.js?v=1460536355"></script>
+<script type="text/javascript">new WOW().init();</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36292845 = new Ya.Metrika({
+                    id:36292845,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36292845" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google.Analytics counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74622120-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google.Analytics counter -->
+</body>
+</html>

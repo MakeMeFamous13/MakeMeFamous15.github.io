@@ -1,0 +1,27 @@
+.snackbar {
+    height: 0;
+}
+
+.snackbar-opened {
+    height: auto;
+    padding: 30px 20px;
+    margin-bottom: 3px;
+    border-radius: 8px;
+    width: 600px;
+}
+
+    .snackbar-content {
+        font: 14px 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
+    }
+
+        .snackbar-content > i {
+            margin-right: 10px;
+        }
+
+
+
+@media (max-width: 600px) {
+    .snackbar {
+        width: 100%;
+    }
+}

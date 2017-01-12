@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta name="csrf-param" content="_csrf">
+    <meta name="csrf-token" content="RS1jTFhYQ2d9eBF8PSACOBZHWxN1CzYUBlkSCXUtJiUgRxo0Px4uJA==">
+    <title></title>
+    <link href="https://onetwoslim.com/terms-of-use" rel="alternate" hreflang="en">
+<link href="https://onetwoslim.com/ru/terms-of-use" rel="alternate" hreflang="ru">
+<link href="https://onetwoslim.com/de/terms-of-use" rel="alternate" hreflang="de">
+<link href="https://onetwoslim.com/es/terms-of-use" rel="alternate" hreflang="es">
+<link href="https://onetwoslim.com/fr/terms-of-use" rel="alternate" hreflang="fr">
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<link href="/assets/6aceee70/animate.css?v=1458900090" rel="stylesheet">
+<link href="/assets/96e96b4d/fonts/fonts.css?v=1471444393" rel="stylesheet">
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/96e96b4d/css/index.css?v=1478007448" rel="stylesheet">
+<link href="/assets/96e96b4d/css/snackbar.custom.css?v=1460536355" rel="stylesheet">
+<link href="/assets/dc5f05ce/snackbar.min.css?v=1460536355" rel="stylesheet">
+<script type="text/javascript">var currentLanguage = "ru";</script>        
+<!­­ Facebook Pixel Code ­­>
+
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', 281860875486193);
+    fbq('track', "PageView");
+    </script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=281860875486193&ev=PageView&noscript=1" />
+</noscript>
+
+<!­­ End Facebook Pixel Code ­­></head>
+<body>
+<div class="wrapper">
+    <header class="header-secondary">
+        <div class="header__wrapper-first-line">
+            <div class="container desktop">
+                <div class="header__wrapper__-left">
+                    <div class="header__logo"><a href="https://onetwoslim.com/ru">
+                            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+                    <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+                  </svg></a></div>
+                    <div class="white-to-us"><span>Время жить новой жизнью!</span></div>
+                </div>
+                <div class="header__wrapper__-right">
+                    <div class="header__social-icon">
+                        <ul>
+                            <li><a href="https://www.facebook.com/onetwobrand"><i class="fa fa-facebook fa-undefined undefined"></i></a></li>
+                            <li><a href="https://twitter.com/onetwobrand"><i class="fa fa-twitter fa-undefined undefined"></i></a></li>
+                            <li><a href="https://plus.google.com/104160462279701557428/posts?hl=en"><i class="fa fa-google-plus fa-undefined undefined"></i></a></li>
+                            <li><a href="https://www.instagram.com/one2brand"><i class="fa fa-instagram fa-undefined undefined"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="header__lang">
+    <ul>
+        <li class="current"><a href="#">ru</a></li>
+        <ul class="langs__list">
+                            <li><a href="https://onetwoslim.com/terms-of-use" data-value="en">en</a></li>
+                            <li><a href="https://onetwoslim.com/de/terms-of-use" data-value="de">de</a></li>
+                            <li><a href="https://onetwoslim.com/es/terms-of-use" data-value="es">es</a></li>
+                            <li><a href="https://onetwoslim.com/fr/terms-of-use" data-value="fr">fr</a></li>
+                    </ul>
+    </ul>
+</div>                    <div class="header__currency">
+                        <ul>
+                            <li><a href="#">$ usd</a></li>
+                        </ul>
+                    </div>
+                    <div class="header__account">
+                        <span>
+                            <i class="fa fa-user fa-undefined undefined"></i>
+                                                            <a class="login_link" href="https://onetwoslim.com/ru/account/login">Войти</a>                                                    </span>
+                    </div>
+                </div>
+            </div>
+            <div class="container tablet-and-less">
+                <div class="header__wrapper__-left">
+                    <div class="header__logo"><a href="https://onetwoslim.com/ru">
+                            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+                    <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+                  </svg></a></div>
+                </div>
+                <div class="header__wrapper__-right">
+                    <div class="header__social-icon">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-user fa-lg undefined"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__wrapper-second-line">
+            <div class="container">
+                <div class="header__nav">
+                    <nav><a href="#" class="menu-toggle"><i class="fa fa-align-justify fa-2x undefined"></i></a>
+                        <ul>
+                            <li class="tablet-and-less"><a href="#" class="menu-toggle"><i class="fa fa-remove fa-lg undefined"></i></a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/ru">Главная</a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/ru/about">О OneTwoSlim</a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/ru/service">Сервис</a></li>
+                            <li class="header_menu_item"><a href="https://onetwoslim.com/ru/contact">Контакты</a></li>
+                            <li class="tablet-and-less">
+                                <div class="header__lang">
+    <ul>
+        <li class="current"><a href="#">ru</a></li>
+        <ul class="langs__list">
+                            <li><a href="https://onetwoslim.com/terms-of-use" data-value="en">en</a></li>
+                            <li><a href="https://onetwoslim.com/de/terms-of-use" data-value="de">de</a></li>
+                            <li><a href="https://onetwoslim.com/es/terms-of-use" data-value="es">es</a></li>
+                            <li><a href="https://onetwoslim.com/fr/terms-of-use" data-value="fr">fr</a></li>
+                    </ul>
+    </ul>
+</div>                                <div class="header__currency">
+                                    <ul>
+                                        <li><a href="#">$ usd</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="tablet-and-less">
+                                <div class="header__social-icon">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/onetwobrand"><i class="fa fa-facebook fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://twitter.com/onetwobrand"><i class="fa fa-twitter fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://plus.google.com/104160462279701557428/posts?hl=en"><i class="fa fa-google-plus fa-undefined undefined"></i></a></li>
+                                        <li><a href="https://www.instagram.com/one2brand"><i class="fa fa-instagram fa-undefined undefined"></i></a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li class="tablet-and-less">
+                                <div class="white-to-us"><span>Время жить новой жизнью!</span></div>
+                            </li>
+                        </ul>
+                    </nav>
+<!--                    <div class="header__nav-search desktop"><a href="#"><i class="fa fa-search fa-undefined undefined"></i></a></div>-->
+                    <!--div.header__nav-order.desktop-->
+                    <!--    a(href="#")-->
+                    <!--        +icon('shopping-bag', '3x')-->
+                    <!--        span 3-->
+                </div>
+            </div>
+        </div>
+    </header>
+    <div id="main" class="clearfix main-paddings">
+        <section class="service">
+    <div class="service__title main-margin-secondary container">
+        <h1>Terms and Conditions</h1>
+        <p>THESE TERMS AND CONDITIONS (“TERMS”) AND THE TERMS CONTAINED WITHIN THE WEB SITE DISCLAIMER APPLY TO YOUR USE OF THIS WEB SITE AND ANY PURCHASE YOU MAKE. YOU WILL NEED TO CONFIRM THAT YOU HAVE READ AND UNDERSTOOD THESE TERMS AND CONDITIONS AND OUR DISCLAIMER IN ORDER TO MAKE A PURCHASE. YOU WILL BE ABLE TO PRINT OFF A COPY OF THESE TERMS AND CONDITIONS – WE RECOMMEND THAT YOU DO THIS AND KEEP A COPY FOR YOUR FUTURE REFERENCE. YOU WILL ALSO NEED TO CONFIRM THAT YOU CONSENT TO OUR PROCESSING OF YOUR PERSONAL DATA IN ORDER TO PROCEED WITH A PURCHASE. PLEASE READ THE TERMS AND CONDITIONS WHICH DEAL WITH OUR USE OF YOUR PERSONAL DATA CAREFULLY BEFORE SUBMITTING YOUR ORDER. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS BELOW AND/OR OUR PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THESE TERMS AND CONDITIONS PLEASE DO NOT PLACE ANY ORDER WITH US.</p>
+    </div>
+    <div class="service__text container">
+        <h3>Definitions</h3>
+        <p>In these Terms, the following words have the following meanings unless the context otherwise             <br>
+            requires:            <br>
+            <b>“Contract”</b>
+            <br>
+            Means ONETWOBRAND LLC;            <br>
+            <b>“Liability”</b>
+            <br>
+            Means liability for any and all damages, claims, proceedings, actions, awards, expenses, costs and any other losses and/or liabilities;            <br>
+            <b>“Products”</b>
+            <br>
+            Means any and all products ordered from Us by You;            <br>
+            <b>“We, Us, Our, Company”</b>
+            <br>
+            Means ONETWOBRAND LLC;            <br>
+            <b>“Web Site”</b>
+            <br>
+            Means http://www.onetwoslim.com            <br>
+            <b>“You, Your, Yourself”</b>
+            <br>
+            Means the person whose order for Products and/or Services is accepted by Us.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>1. About Us onetwoslim.com is owned and operated by OneTwoSlim.</h3>
+    </div>
+    <div class="service__text container">
+        <h3>2. About You By using this Web Site You warrant that You are at least 18 years old and capable of entering into binding contracts. You further warrant that you understand and agree to be bound by these Terms.</h3>
+    </div>
+    <div class="service__text container">
+        <h3>3. Terms and Conditions</h3>
+        <p>
+            3.1 These Terms govern the supply of Products and Services to You.            <br>
+            3.2 It is Your responsibility to ensure that Your use of the Web Site and the purchase of the Products and/or Services is legal in the country in which You are resident and/or in which You are viewing this Web Site.            <br>
+
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>4. Basis of Contract</h3>
+        <p>
+            4.1 These Terms and any document or disclaimer referred to in them represent the entire agreement between You and Us in relation to the supply of any Products and/or Services via the Web Site.            <br>
+            4.2 These Terms supersede all previous terms and conditions, prior agreements, representations, understandings or arrangements and shall replace any terms and conditions previously available on this Web Site or notified to You. You acknowledge that in entering into a Contract with Us You have not relied upon any representation, undertaking or promise previously given or implied from anything said in negotiations or otherwise prior to such Contract save as is expressly set out in these Terms.            <br>
+            4.3 Our employees, sub-contractors and/or agents are not authorized to make any representations or warranties concerning the Products, Services (including without limitation any product subscription offerings) and/or the Web Site unless confirmed by a Director in writing.             <br>
+            4.4 No oral representations or warranties shall bind Us unless given by a Director.            <br>
+            4.5 We have the right to modify, vary or amend these Terms from time to time. No variation to these Terms shall be binding on Us unless agreed in writing between You and a Director in advance of Your order.            <br>
+            4.6 We reserve the right to change and modify these Terms without notice. You will be subject to the terms and conditions in force at the time that You order Products and/or Services from Us. However, the provision of our ongoing Services such as any subscriptions offered will be subject to the updated terms and conditions in place from time to time and accordingly, it is Your responsibility to read and review these Terms from time to time so that You are fully aware of any changes. Your purchase of Products and/or Services and/or continued use of the Web Site and/or, where applicable, Your continued membership of the Web Site thereof shall be deemed to be Your acceptance of any modification or variation which has been made.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>5. Orders and Contracts</h3>
+        <p>
+            5.1 You may place orders for Products and/or Services either via the Web Site or by telephone. If You wish to place Your order by telephone, please call Toll-Free + 1 (888) 8423674 | Int’l + 1 (786) 3503070. Calls to the international number will be charged at standard international rates.            <br>
+            5.2 We have the right to refuse to accept any orders placed for Products and/or Services. Your order for Products and/or Services constitutes an offer to Us to buy those Products and/or Services and shall only form a binding Contract when We send Our order confirmation to You by e-mail.             <br>
+            5.3 You shall be responsible for the accuracy of Your order and for giving Us any and all information necessary for Us to perform the Contract. When You input Your details via the Website, You are responsible for ensuring that all information You give Us is correct. Our ordering process on the Web Site will provide You with instructions on how to correct any input errors.            <br>
+            5.4  Due to the fact that we will endeavor to deliver Your Products to You very quickly, You have a period of 24 hours from confirmation of Your order to correct any errors in Your order by calling Toll-Free + 1 (888) 8423674 | Int’l + 1 (786) 3503070.             <br>
+            5.5 Products are subject to availability. If We are unable to supply You with the Products due to the fact that they are out of stock, We will inform You as soon as possible. You will be given the option of (i) waiting until the Products are in stock when We will perform the Contract; or (ii) cancelling Your affected order and obtaining a full refund (if We have already received payment from You).            <br>
+            5.6 We try to ensure that all details contained within the Web Site are as accurate as possible. On the rare occasion that there is an error, We will advise You as soon as possible and it will be corrected.            <br>
+            5.7 Please note that any details and/or specifications for the Products and/or Services produced by Us (including any photographs of the Products) are intended as a guide only to give a general approximation.            <br>
+            5.8 We keep copies of all orders We receive and accept for a period of 5 years from the date of the order. This enables Us to process orders effectively, maintain high levels of customer service and deal with quality issues should they arise.            <br>
+            5.9 We will have Special Offers on Our Website from time to time, which, in the event of any dispute regarding the Rules, conduct, results and all other matters relating to these matters, the decision will be left to the management of Our Website. No correspondence, beyond reason, or discussion shall be entered into relating to any disputes.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>6. Products Any Products purchased are for Your personal use only. The Products cannot be resold and cannot be given to any third party.</h3>
+    </div>
+    <div class="service__text container">
+        <h3>7. Delivery</h3>
+        <p>
+            7.1 Dates for delivery are estimates only and are not guaranteed. Time is not of the essence in relation to such dates. They are also subject to any matter beyond Our reasonable control including without limitation those events set out in paragraph 13.3.             <br>
+            7.2 As a general rule, We will dispatch the Products to You on the same day as We accept Your order (subject to the Products being in stock) or the next working day if Your order is placed outside of our normal working hours. We charge for delivery and packaging. These delivery prices are detailed on the Web Site and are subject to change, depending on Your address, time of year, religious and/or national holidays, etc.            <br>
+            7.3 When Products should be delivered in installments, each delivery shall constitute as separate and distinct contract and failure by Us to deliver, or any claim by You in respect of, any installment shall not entitle You to repudiate and/or terminate any Contract as a whole.            <br>
+            7.4 We shall not be required to fulfill orders for Products in the sequence in which they are placed.            <br>
+            7.5  In most cases, orders will be delivered to You by special delivery, requiring a signature to confirm receipt. It is Your responsibility to ensure that there is someone at the delivery address to sign for the Products when delivered. Alternatively, it is Your responsibility to collect the Products from any postal collection depot and/or arrange an alternative delivery date if You are unavailable to sign for the Products.            <br>
+            7.6 We are not responsible for the Products and their safe delivery after they have left Our possession. If You have any issues regarding non-delivery, late delivery and/or damage to the Products during transit, You must take this up with the carrier. We will provide You with their details on request.             <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>8. Prices and payment</h3>
+        <p>
+            8.1 The price for Products and Services shall be as shown on the Web Site at the date of Our acceptance of Your order.            <br>
+            8.2 Prices for the Products do not include delivery charges which You will be charged for in addition and these are clearly displayed on the Web Site. Whilst We do offer a free delivery service in some circumstances, We reserve the right to remove this option at any time and where this is the case We will notify You of the charges to be applied at the time You place Your order            <br>
+            8.3 Unless otherwise stated, all prices are in USD and inclusive of VAT or other similar sales tax. Customers may be charged Import Duties on shipments of OneTwoSlim. These are charged by local Customs and are beyond our control. Any Import Duties are the responsibility of the customer.             <br>
+            8.4 Whilst We try to ensure that all prices on the Web Site are accurate, errors may occur and prices may vary. Your payment may be processed in various international currencies and not the currency displayed during checkout. You may experience currency exchange rate differences due to it being an international charge, and should check your credit card statement to view the charge in the actual currency. Due to exchange rate differences, the price of shipping may even exceed the stated shipping amount on the website. If you have any questions or concerns about this, please call us Toll-Free + 1 (888) 8423674 | Int’l + 1 (786) 3503070. If You do not agree to the price, do not proceed further with order. If We discover an error in the price of Products or Services You have ordered We will inform You as soon as possible and give You the option of either re-confirming Your order at the correct price or cancelling it. If We are unable to contact You, Your order will be cancelled. If You cancel an order due to an error in price and We have already received payment for the affected Products or Services, You will receive a full refund.            <br>
+            8.5 Payment is due at the time You place Your order:            <br>
+            8.5.1 If you are ordering online via the Web Site, We use a third party to take Your payment by debit or credit card. When You proceed to checkout and place Your order, We will take Your personal details and card details and pass them to Our chosen credit card merchant. The credit card merchant will check and store Your data in order to process Your payment details. We have imposed obligations on our credit card merchant to protect the security and safety of Your data. In respect of each credit or debit card transaction, We strongly advise that you print off and retain a copy of the card transaction in an accessible place for future reference;             <br>
+            8.5.2  If You are placing orders by fax, when completing the order form please complete details of Your debit/credit card as requested on the form. Please note that fax is not a secure method of communication and We accept no liability for any loss and/or damage that You may suffer as a result of faxing Your credit/ debit card details to Us. As with online payments, Your card details and data will be passed to Our credit card merchant in order to process payment;            <br>
+            8.6 We will not accept Your order and the Contract will not be concluded until such time as We receive confirmation from Our credit card merchant that Your payment has been authorized and/or We have received payment in full in cleared funds.            <br>
+            8.7 If for any reason payment in full is not made, We may withhold or suspend delivery of Products or, as the case may be, Services.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>9. Property and risk. Risk in the Products shall pass to You at the time of delivery. Delivery shall be deemed to occur at the time when the Products are passed to Our nominated carriers. </h3>
+    </div>
+    <div class="service__text container">
+        <h3>10. Faulty Goods</h3>
+        <p>
+            10.1 If You discover that a Product is faulty, You must notify Us of the defect within 7 days of the date of delivery or within a reasonable period of time of discovery (if the defect was not readily apparent).            <br>
+            10.2 We may ask You to return the faulty Products to Us for inspection before We send You a replacement. If the Products are faulty, We will replace the faulty Product at no additional cost to You and refund any reasonable costs You may have incurred in returning the faulty Product to Us.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>11. Data Protection</h3>
+        <p>
+            11.1 When You use Our Web Site, You will be asked to provide certain personal information such as Your contact details, credit/debit cards or other payment details. We will store the data You provide to Us on computers or otherwise. Data will be held in the US where the Web Site is hosted. The purposes for which Your personal data will be processed are set out below.            <br>
+            11.2 We will comply with the requirements of all data protection legislation in force. In particular, You may request a copy of any personal data We hold about You upon written application. Please note that We reserve the right to charge the current statutory fee for providing You with such information.            <br>
+            11.3 We will process Your personal data in an ethical manner. It will be used for the following             <br>
+            purposes:            <br>
+            11.3.1 to process Your order;            <br>
+            11.3.2 where applicable, to administer Your membership of the Web Site;            <br>
+            11.3.3 to administer Our Web Site services which may involve sharing information with Our services providers;            <br>
+            11.3.4 to administer Our business;            <br>
+            11.3.5 for assessment and analysis (e.g., market, customer, product analysis) to enable Us to review, develop and improve the services which We offer and to enable Us to provide You with relevant information through Our marketing information;            <br>
+            11.3.6 to notify You by email or telephone of any Products that We think may be of interest to You unless You inform Us that You do not wish to receive such information.            <br>
+            11.4 We may also disclose Your information to anyone to whom We transfer or may transfer Our business and/or Our rights and duties under the Contract with You or to the police or any other regulatory or government authority where We are legally required to do so.             <br>
+            11.5 We may share Our database(s) of customers with selected third parties.            <br>
+            11.6  If You do not wish Us to notify You by post of any additional products or services that We think may be of interest to You, please unsubscribe.            <br>
+            11.7  We try to ensure that all data we hold about our customers is up to date and correct. Therefore, if any of your personal details change, please let Us know by calling us. When ordering online, We will provide a clear process for You to correct any input errors.            <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>12. Returns Policy</h3>
+        <p>
+            All product returns must have prior, authorized approval from our Customer Service department. Within 14 days of ordering our products, you can phone Customer Service Toll-Free + 1 (888) 8423674 |Int'l + 1 (786) 3503070, Monday - Friday, 8:00 AM - 5:00 PM PST; Saturday - Sunday, 8:00 AM - 4:00 PM PST to get an RMA number. An approved refund will not include shipping charges previously paid. For all approved returns, the customer is required, at customer's expense, to return the unused products along with the RMA number to:
+            OneTwoBrand LLC
+            5045 Old Scandia Ln,
+            Calabasas, CA 91302, USA
+            No refund will be issued without prior authorized approval from our customer service department.
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>13. Liability</h3>
+        <p>
+            13.1 No waiver by Us of any breach of any Contract by You and/or the failure by Us to exercise any rights or remedies to which We are entitled shall be considered as a waiver of any subsequent breach of the same provision or other provision or of Our rights or remedies and shall not relieve You from compliance with such obligations.            <br>
+            13.2 If any provision of these Terms is held by any competent authority to be invalid or unenforceable in whole or in part the validity of the other provisions of these terms and conditions and the remainder of the affected provision shall be unaffected and shall remain in full force and effect.             <br>
+            13.3 We shall have no Liability to You for any delay in performance to the extent that such delay is due to any event outside Our reasonable control including acts of God, denial of service attacks, internet disruption, non-performance by suppliers or subcontractors, war, flood, fire, labor disputes, sub-contractor delays, strikes, lock outs, riots, civil commotion, malicious damage, explosion, governmental action and any other similar events. If We are affected by any such event then time for performance shall be extended for a period equal to the period that such event or events delayed such performance.            <br>
+            13.4 All third party rights are excluded and no third party shall have any right to enforce a Contract. Any rights of a third party to enforce this Contract may be varied and/or extinguished by agreement between the parties.            <br>
+            13.5 Notwithstanding Your rights set out above, if You are unhappy with any aspects of the Services and/or Products that We have provided to You or have any queries or comments regarding these, please contact Us by calling Toll-Free + 1 (888) 8423674 | Int’l + 1 (786) 3503070.             <br>
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>14. These products are not intended to diagnose, treat, cure or prevent any illness or disease</h3>
+        <p>
+            Legal Disclaimer Statements made by Company have not been evaluated by the food and drug administration. The FDA does not evaluate or test herbs. These products are not intended to diagnose, treat, cure or prevent any illness or disease. Consult with your physician for diagnosis or treatment. Use herbs as per instructions and always watch for any allergic reactions. The information presented on this site is not presented with the intention of diagnosing any disease or condition or prescribing any treatment. It is offered as information only, for use in the maintenance and promotion of good health in cooperation with a licensed medical practitioner. In the event that any individual should use the information presented on this website without a licensed medical practitioner's approval, that individual will be diagnosing for him or herself. No responsibility is assumed by the author, publisher or distributors of this information should the information be used in place of a licensed medical practitioner's services. No guarantees of any kind are made for the performance or effectiveness of the preparations mentioned on this website. Furthermore, this information is based solely on the traditional and historic use of a given extracts, or on clinical trials that are generally not recognized by any US government agency or medical organization. This information has not been evaluated by the US Food and Drug Administration, nor has it gone through the rigorous double-blind studies required before a particular product can be deemed truly beneficial or potentially dangerous and prescribed in the treatment of any condition or disease. Herbal Safety Guidelines Before using an herb you are unfamiliar with, find out its medicinal properties. Research it thoroughly and/or consult with an appropriately qualified practitioner or expert. If you are taking prescription drugs, or have a medical condition check with an appropriately qualified practitioner before using herbs medicinally. Herbs have shown overwhelming evidence that they work. Just because a small amount works well does NOT mean that more is better. As individuals we all have different constitutions, sensitivities, allergic reactions and possible health conditions. Should I check with my doctor or healthcare provider before using a supplement? This is a good idea, especially for certain population groups. Dietary supplements may not be risk-free under certain circumstances. If you are pregnant, nursing a baby, or have a chronic medical condition, such as, diabetes, hypertension or heart disease, be sure to consult your doctor or pharmacist before purchasing or taking any supplement. While vitamin and mineral supplements are widely used and generally considered safe, you may wish to check with your doctor or pharmacist before taking these or any other dietary supplements. If you plan to use a dietary supplement in place of drugs or in combination with any drug, tell your healthcare provider first. Many supplements contain active ingredients that have strong biological effects and their safety is not always assured in all users. If you have certain health conditions and take these products, you may be placing yourself at risk. Some supplements may interact with prescription and over-the-counter medicines. Taking a combination of supplements or using these products together with medications (whether prescription or OTC drugs) could under certain circumstances produce adverse effects. Be alert to advisories about these products, whether taken alone or in combination. For example: Coumadin (a prescription medicine), ginkgo biloba (an herbal supplement), aspirin (an OTC drug) and vitamin E (a vitamin supplement) can each thin the blood, and taking any of these products together can increase the potential for internal bleeding. Some supplements can have unwanted effects during surgery. It is important to fully inform your doctor about the vitamins, minerals, herbals or any other supplements you are taking, especially before elective surgery. You may be asked to stop taking these products at least 2-3 weeks ahead of the procedure to avoid potentially dangerous supplement/drug interactions -- such as changes in heart rate, blood pressure and increased bleeding - that could adversely affect the outcome of your surgery.
+        </p>
+    </div>
+    <div class="service__text container">
+        <h3>15.  Suggested Use of OneTwoSlim supplement.</h3>
+        <p>
+            Each bottle contains 60 capsules, which constitute a one-month supply. Suggested use: take 2 capsules per day, preferably 30 minutes before the meal. Take each capsule with a glass of water.
+        </p>
+    </div>
+</section>
+<div class="fixed-buttons">
+    <!--        <div class="subscribe__wrap">-->
+    <!--            <a href="#" class="fixed-button__subscribe"><i class="fa fa-envelope fa-lg"></i>Subscribe</a>-->
+    <!--        </div>-->
+    <div class="buy-now__wrap">
+        <a id="buy-now-fixed" href="https://onetwoslim.com/ru/billing/create" class="fixed-button__buy-now"><i
+                class="fa fa-shopping-cart fa-2x"></i>Купить сейчас!</a>
+    </div>
+</div>    </div>
+    <footer class="">
+    <div class="container">
+        <div class="footer__col">
+            <svg version="1.1" id="svg-logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 70.7 75.1" style="enable-background:new 0 0 70.7 75.1;" xml:space="preserve">
+            <path d="M8.2,9c0-1.4,0.2-2.7,0.6-3.8c0.4-1.1,1-2.1,1.8-2.9c0.8-0.8,1.7-1.4,2.9-1.8C14.5,0.2,15.8,0,17.2,0      c1.4,0,2.7,0.2,3.8,0.6c1.1,0.4,2.1,1,2.9,1.8c0.8,0.8,1.4,1.7,1.8,2.8c0.4,1.1,0.6,2.3,0.6,3.7c0,1-0.1,1.9-0.3,2.7      c-0.2,0.8-0.4,1.6-0.8,2.2c-0.3,0.7-0.8,1.2-1.3,1.7c-0.5,0.5-1.1,0.9-1.7,1.3c-0.7,0.4-1.4,0.6-2.2,0.8c-0.8,0.2-1.7,0.3-2.6,0.3      c-1,0-1.8-0.1-2.6-0.2c-0.8-0.2-1.5-0.4-2.2-0.7l0,0c-0.6-0.3-1.2-0.7-1.8-1.2c-0.5-0.5-1-1.1-1.4-1.8c-0.4-0.7-0.7-1.4-0.9-2.3      C8.3,10.9,8.2,10,8.2,9L8.2,9z M9.4,5.5C9.1,6.5,8.9,7.7,8.9,9c0,1,0.1,1.8,0.3,2.6c0.2,0.8,0.5,1.5,0.8,2.1      c0.4,0.6,0.8,1.2,1.3,1.6c0.5,0.5,1,0.8,1.6,1.1l0,0c0.6,0.3,1.3,0.5,2,0.6c0.8,0.1,1.6,0.2,2.5,0.2c0.9,0,1.7-0.1,2.5-0.3      c0.7-0.2,1.4-0.4,2-0.7c0.6-0.3,1.1-0.7,1.6-1.2c0.5-0.5,0.8-1,1.1-1.6c0.3-0.6,0.6-1.3,0.7-2c0.2-0.8,0.2-1.6,0.2-2.6      c0-1.3-0.2-2.5-0.5-3.5c-0.4-1-0.9-1.9-1.6-2.6c-0.7-0.7-1.6-1.2-2.6-1.6c-1-0.4-2.2-0.5-3.6-0.5c-1.3,0-2.5,0.2-3.5,0.5      c-1,0.4-1.9,0.9-2.6,1.6C10.3,3.6,9.8,4.5,9.4,5.5L9.4,5.5z M14.1,9c0,0.8,0.1,1.5,0.2,2.1c0.1,0.6,0.4,1,0.6,1.3l0,0      c0.3,0.3,0.6,0.6,1,0.7c0.4,0.2,0.8,0.2,1.3,0.2c0.5,0,1-0.1,1.3-0.2c0.4-0.2,0.7-0.4,1-0.7c0.3-0.3,0.5-0.8,0.6-1.4      c0.1-0.6,0.2-1.4,0.2-2.3c0-0.8-0.1-1.4-0.2-2c-0.1-0.5-0.4-0.9-0.6-1.3c-0.3-0.3-0.6-0.6-1-0.7v0c-0.4-0.2-0.8-0.2-1.3-0.2      c-0.5,0-0.9,0.1-1.3,0.2c-0.4,0.2-0.7,0.4-1,0.7c-0.3,0.3-0.5,0.8-0.6,1.3C14.1,7.5,14.1,8.2,14.1,9L14.1,9z M13.6,11.3      c0.2,0.7,0.4,1.2,0.8,1.6l0,0c0.3,0.4,0.8,0.7,1.2,0.9c0.5,0.2,1,0.3,1.6,0.3c0.6,0,1.1-0.1,1.6-0.3c0.5-0.2,0.9-0.5,1.2-0.9l0,0      c0.3-0.4,0.6-1,0.8-1.7C21,10.6,21,9.8,21,8.8C21,8,21,7.3,20.8,6.7C20.6,6,20.4,5.5,20,5.1c-0.4-0.4-0.8-0.7-1.2-0.9l0,0      c-0.5-0.2-1-0.3-1.6-0.3c-0.6,0-1.1,0.1-1.5,0.3c-0.5,0.2-0.9,0.5-1.2,0.9c-0.3,0.4-0.6,0.9-0.8,1.6c-0.2,0.6-0.2,1.4-0.2,2.3      C13.4,9.9,13.4,10.6,13.6,11.3L13.6,11.3z M28.7,0.3h4.8h0.2l0.1,0.2l5.7,8.3V0.6V0.3h0.3h4.9H45v0.3v16.7v0.3h-0.3h-4.9h-0.2      l-0.1-0.2l-5.6-8.3v8.1v0.3h-0.3h-4.9h-0.3v-0.3V0.6V0.3H28.7L28.7,0.3z M33.3,1H29v16h4.2V8.2V7.1L33.8,8l6.2,9h4.3V1h-4.2v8.9V11      l-0.6-0.9L33.3,1L33.3,1z M48.1,0.3h13.8h0.3v0.3v3.6v0.3h-0.3h-8.3v2h7.7h0.3v0.3v3.4v0.3h-0.3h-7.7v2.6h8.6h0.3v0.3v3.8v0.3h-0.3      H48.1h-0.3v-0.3V0.6V0.3H48.1L48.1,0.3z M61.6,1H48.4v16h13.4v-3.1h-8.6h-0.3v-0.3v-3.3V9.9h0.3H61V7.2h-7.7h-0.3V6.9V4.2V3.9h0.3      h8.3V1z" class="st0-1"></path>
+                <path d="M13.4,44.4V30.2H8.3v-2.9h13.5v2.9h-5v14.2H13.4L13.4,44.4z M26.5,44.4l-4.1-17H26L28.5,39l3.1-11.7h4.1l3,11.9      l2.6-11.9h3.5l-4.1,17H37l-3.4-12.7l-3.4,12.7H26.5L26.5,44.4z M45.9,36c0-1.7,0.3-3.2,0.8-4.4c0.4-0.9,0.9-1.6,1.6-2.3      c0.7-0.7,1.4-1.2,2.2-1.5c1.1-0.5,2.3-0.7,3.7-0.7c2.5,0,4.5,0.8,6,2.3c1.5,1.6,2.3,3.7,2.3,6.5c0,2.8-0.8,4.9-2.2,6.5      c-1.5,1.6-3.5,2.3-6,2.3c-2.5,0-4.6-0.8-6-2.3C46.6,40.8,45.9,38.7,45.9,36L45.9,36z M49.4,35.9c0,1.9,0.4,3.4,1.3,4.4      c0.9,1,2,1.5,3.4,1.5c1.4,0,2.5-0.5,3.4-1.5c0.9-1,1.3-2.5,1.3-4.4c0-2-0.4-3.4-1.3-4.4c-0.9-1-2-1.4-3.4-1.4      c-1.4,0-2.6,0.5-3.4,1.5C49.8,32.4,49.4,33.9,49.4,35.9z" class="st1-1"></path>
+                <path d="M28,50.8c0,0.6,0.6,1,1.2,1c1.3,0,2.2-0.3,2.2-1.7v-1c0-0.6-0.2-0.7-0.7-0.7h-0.7C29.1,48.4,28,50,28,50.8      L28,50.8z M14.5,51.3l-0.2,9.1c-2,1.1-5.4,7.2-7.9,7.4l-3.2-5c0.4-0.6,2.2-2.3,2.2-2.9v-0.7c0-0.6-0.4-1-1-1H4.1      c-1.6,0-2.9,2.4-2.9,4.1v1c0,2.7,3.6,4.7,3.6,6.3c0,2.1-4.8,2.6-4.8,4.8c0,0.6,0.2,0.7,0.7,0.7h0.7C4.3,75.1,12,64.8,14,62.6      c0,3.1,1.1,7.5,4.1,7.5h1.2c2.6,0,7.5-5.6,7.5-8.2v-0.7c-1.9,0.5-3.7,6.7-7.7,6.7h-0.5c-1.3,0-2.4-2.6-2.4-4.1v-0.2      c0-2.5,0.1-4.8,0.2-7.2c0.1-1.1,1.2-6.3-0.2-6.3h-0.5C15,50.1,14.8,50.8,14.5,51.3L14.5,51.3z M27.5,59.7v1.2c0,3.3,1.3,8.4,4.1,8.4      c2.9,0,4.6-2.2,6.1-3.8c0.9-0.9,3.8-4.9,3.8-6.3c0-0.7-0.2-0.6-0.7-0.7c-0.4,1.8-6,8.2-8.2,8.2h-0.7c-1.1,0-1.9-3.4-1.9-4.6v-5.3      C28.2,56.8,27.5,58,27.5,59.7L27.5,59.7z M42.2,65.2l1,2.2h0.5h0.5c0.9,0,1.1-1.3,1.7-1.9c0.4-1.7,3.2-7.8,4.8-7.9      c0.3,1.3,0.6,2.4,1,4.1c0.2,1.2,0.3,3.6,1.7,3.6h0.2c1.9,0,3.5-7.3,5.6-8.7c1.5,1.1,0.9,7,3.9,7h0.5c2.6,0,7.2-5.6,7.2-8.4      c-1.6,0.2-4.6,6.3-6.8,6.3c-2.9,0-1.5-7.7-3.9-7.7h-1c-1.5,0-4.1,6.7-4.8,8.2c-1.9-1.3-0.5-7-3.4-7c-4,0-4.7,8.4-6.8,9.1l-0.1-1.9      l0.6-4.8v-0.7c0-0.7-0.5-1.7-1-1.7c-0.7,0-1.2,0.8-1.4,1.2V65.2z" class="st2-1"></path>
+          </svg>
+        </div>
+        <div class="footer__col">
+            <h3>Меню OneTwoSlim</h3>
+            <ul>
+                <li><a href="https://onetwoslim.com/ru"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Главная</a></li>
+                <li><a href="https://onetwoslim.com/ru/about"><i class="fa fa-angle-double-right fa-undefined undefined"></i>О OneTwoSlim</a></li>
+                <li><a href="https://onetwoslim.com/ru/service"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Сервис</a></li>
+            </ul>
+        </div>
+        <div class="footer__col">
+            <h3>Покупателям</h3>
+            <ul>
+                <li><a href="https://onetwoslim.com/ru/account"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Мой аккаунт</a></li>
+                <li><a href="https://onetwoslim.com/ru/terms-of-use"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Terms&Conditions</a></li>
+                <li><a href="https://onetwoslim.com/ru/site/privacy-policy"><i class="fa fa-angle-double-right fa-undefined undefined"></i>Политика конфиденциальности</a></li>
+            </ul>
+        </div>
+        <div class="footer__col">
+            <h3>Связаться с нами</h3>
+            <ul>
+                <li><a href="javascript:void(0);"><i class="fa fa-map-marker fa-undefined undefined"></i><span>OneTwoBrand LLC</span></a></li>
+                <li><a href="javascript:void(0);"><span>5045 Old Scandia Ln, Calabasas, CA 91302, USA</span></a></li>
+                <li><a href="javascript:void(0);"><i class="fa fa-mobile fa-undefined undefined"></i>Toll-Free + 1 (888) 8423674</a></li>
+                <li><a href="javascript:void(0);"><i class="fa fa-mobile fa-undefined undefined"></i>Int'l + 1 (786) 3503070</a></li>
+<!--                <li><a href="mailto:info@onetwoslim.com"><i class="fa fa-envelope fa-undefined undefined"></i>info@onetwoslim.com</a></li>-->
+                <li>
+                    <a href="https://www.facebook.com/onetwobrand" class="social-icon facebook"><span><i class="fa fa-facebook fa-undefined undefined"></i></span></a>
+                    <a href="https://twitter.com/onetwobrand" class="social-icon twitter"><span><i class="fa fa-twitter fa-undefined undefined"></i></span></a>
+                    <a href="https://plus.google.com/104160462279701557428/posts?hl=en" class="social-icon google-plus"><span><i class="fa fa-google-plus fa-undefined undefined"></i></span></a>
+                    <a href="https://www.instagram.com/one2brand" class="social-icon instagram"><span><i class="fa fa-instagram fa-undefined undefined"></i></span></a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="sub-footer">
+        <div class="container">
+            <div class="sub-footer__left desktop">
+                <p><span>&#169; OneTwoSlim</span><span>&nbsp;- Все права защищены. 2016</span></p>
+            </div>
+            <div class="sub-footer__right">
+                <ul class="payment-system">
+                    <li><a href="#" class="paypal"></a></li>
+                    <li><a href="#" class="visa"></a></li>
+                    <li><a href="#" class="master-card"></a></li>
+                    <li><a href="#" class="discover"></a></li>
+                    <li><a href="#" class="american-express"></a></li>
+                </ul>
+            </div>
+            <div class="sub-footer__left tablet-and-less">
+                <p><span>&#169; OneTwoSlim</span><span>&nbsp;- Все права защищены. 2016</span></p>
+            </div>
+        </div>
+    </div>
+</footer>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="/assets/4aa34ecc/yii.js?v=1468244202"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script src="/assets/f6b35bea/wow.min.js?v=1458900090"></script>
+<script src="/assets/fee0827/jquery.slides.min.js?v=1458900090"></script>
+<script src="/assets/10efd4e2/jquery.cookie.js?v=1398629235"></script>
+<script src="/assets/96e96b4d/js/messages.js?v=1471965341"></script>
+<script src="/assets/96e96b4d/js/translator.js?v=1468824781"></script>
+<script src="/assets/96e96b4d/js/app.js?v=1473864714"></script>
+<script src="/assets/dc5f05ce/snackbar.min.js?v=1460536355"></script>
+<script type="text/javascript">new WOW().init();</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter36292845 = new Ya.Metrika({
+                    id:36292845,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/36292845" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+<!-- Google.Analytics counter -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-74622120-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Google.Analytics counter -->
+</body>
+</html>
