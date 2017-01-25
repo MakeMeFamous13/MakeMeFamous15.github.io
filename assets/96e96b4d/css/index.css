@@ -470,6 +470,9 @@ a:hover {
     margin-bottom: 15px;
     width: 100%;
   }
+  .billing .billing__content--form-checkbox label + label span {
+    font-size: 13px !important;
+  }
 }
 
 @media (max-width: 768px) {
@@ -549,7 +552,7 @@ a:hover {
   }
 
   .banner .banner__text {
-    margin-top: -50px !important;
+    margin-top: -4px !important;
   }
 
   header #svg-logo {
@@ -2862,9 +2865,6 @@ button:active {
   width: 980px;
 }
 
-#myModal .modal-content {
-  padding: 40px;
-}
 
 #myModal .modal-content .modal-header {
   padding: 0;
@@ -2899,10 +2899,6 @@ button:active {
   height: 400px;
   text-align: center;
   padding: 50px 0 10px 20px;
-}
-
-#myModal .modal-body__content {
-  padding-left: 40px;
 }
 
 #myModal .modal-body__content > h1 {
@@ -3312,9 +3308,7 @@ button:active {
     border-radius: 4px 4px 0 0;
   }
 
-.slider__text {
-  margin-top: 20px;
-}
+
 
 .border-top__blue {
   border-top: 2px solid #0093dd;
@@ -3827,3 +3821,8 @@ button:active {
     z-index: 20;
     background: rgba(255, 255, 255, 0.75);
 }
+@media (max-width: 400px){
+  .billing .billing__content--form-checkbox label + label span{
+    font-size: 12px;
+  }
+  }
